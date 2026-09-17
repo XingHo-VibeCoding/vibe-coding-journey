@@ -1,0 +1,21 @@
+# 忽略规则:这些文件永远不进 Git、不上传 GitHub
+
+# 本地私密配置(数据库密码、密钥等,第 23 天会用到)
+.env
+.env.*
+
+# 依赖包(体积大,而且每个人都能自己装)
+node_modules/
+
+# 系统生成的杂物
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 编辑器生成的杂物
+.vscode/
+.idea/
+
+# 日志和临时文件
+*.log
+tmp/
