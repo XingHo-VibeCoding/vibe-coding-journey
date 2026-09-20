@@ -19,3 +19,6 @@ Desktop.ini
 # 日志和临时文件
 *.log
 tmp/
+
+# VS Code 进程检查脚本输出（本地排查用,不入库）
+vscode-check.txt
