@@ -107,3 +107,11 @@
 ---
 
 > 📌 每天开工前先读本文件。规矩变了就改,改完告诉 AI。
+
+---
+
+## 八、我的个人规则(Day 6 追加)
+
+1. **临时文件不入库**:`node-check.txt`、`vscode-check.txt` 这类验证残留**只在本机**,不入 `.gitignore` 时要单独提醒我,避免哪天无意中推到 GitHub。
+2. **截图归位**:截图必须存在 `C:\Users\xuche\vibe-coding-journey\screenshots\`,文件名格式 `dayN-场景.png`(例:`day6-agents-md.png`),不写桌面、不用系统默认名。
+3. **前端先看再交**:HTML/CSS/JS 改完后,**先打开浏览器亲眼确认页面正常再提交**,提交信息里附一句"我看到 XX"作为证据,防止"提交成功但页面空白"。
