@@ -20,5 +20,6 @@ Desktop.ini
 *.log
 tmp/
 
-# VS Code 进程检查脚本输出（本地排查用,不入库）
+# 环境/进程验证脚本输出（本地排查用,不入库）
+node-check.txt
 vscode-check.txt
